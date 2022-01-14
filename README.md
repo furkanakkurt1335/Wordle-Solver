@@ -11,4 +11,4 @@ Example: ```word = '.a.ic'```
 
 The data in the file '5 letter words.txt' is taken from the Collins Dictionary.  
 
-Best word to start the game is 'AEONS', using the frequencies out of the word-list file.  
+After some consideration, the best word to start the game is probably 'AESIR', using the frequencies out of the word-list file.  
