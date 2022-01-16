@@ -11,5 +11,5 @@ Example: ```word = '.a.ic'```
 
 The data in the file '5 letter words.txt' is taken from the Collins Dictionary.  
 
-After some consideration, the best word to start the game is probably *AESIR*, using the frequencies out of the word-list file.  
-Some other fitting words to start the game with: *AEONS*, *AARGH*
+After much consideration, the best 20 words to start the game with in descending order are: sanes, sales, bares, cares, tares, mares, pares, sores, dares, saree, banes, canes, sates, lares, seres, bales, rares, saris, fares, hares, manes. The best word then is *SANES*. The frequencies out of the word-list file are used in calculation.  
+Some other fitting words to start: *AESIR*, *AEONS*, *AARGH*  
