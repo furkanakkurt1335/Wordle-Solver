@@ -7,8 +7,11 @@ letters_not_in_set = set()
 for word in letters_not_in_l:
 	for letter in word:
 		letters_not_in_set.add(letter)
-word = '.....'
+
+word = '......'
 letters_must_be_in = []
+for i in word:
+	if i in letters_not_in_set: letters_not_in_set.remove(i)
 for i in letters_must_be_in:
 	if i[0] in letters_not_in_set: letters_not_in_set.remove(i[0])
 words_available = []
