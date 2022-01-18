@@ -9,7 +9,6 @@ Example: ```letters_must_be_in = [('a', 1), ('t', 2)]```
 * ```'word'``` variable should be changed according to the established positions of letters (greens).  
 Example: ```word = '.a.ic'```  
 
-The data in the file '5 letter words.txt' is taken from the Collins Dictionary.  
+The data in the file 'Mystery Word List.txt' is taken from the words used in the js script file to construct the puzzle.  
 
-After much consideration, the best 20 words to start the game with in descending order are: sanes, sales, bares, cares, tares, mares, pares, sores, dares, saree, banes, canes, sates, lares, seres, bales, rares, saris, fares, hares, manes. The best word then is *SANES*. The frequencies out of the word-list file are used in calculation.  
-Some other fitting words to start: *AESIR*, *AEONS*, *AARGH*  
+The best word to start the game with is *SLATE*. The frequencies out of the word-list file are used in calculation.
