@@ -9,7 +9,7 @@ def get_freq(word):
 
 path = os.path.dirname(os.path.realpath(__file__))
 lett_freq_d = json.load(open(f'{path}\\mystery-word-list-letter-frequencies.json', 'r', encoding='utf-8'))
-word_list = open(f'{path}\\Mystery Word List.txt', 'r', encoding='utf-8').read().split('\n')
+word_list = open(f'{path}\\Mystery Word List.txt', 'r', encoding='utf-8').read().split(' ')
 letters_not_in_l = []
 letters_not_in_set = set()
 for word in letters_not_in_l:
