@@ -11,4 +11,4 @@ Example: ```word = '.a.ic'```
 
 The data in the file 'Mystery Word List.txt' is taken from the words used in the js script file to construct the puzzle.  
 
-The best word to start the game with is *SLATE*. The frequencies out of the word-list file are used in calculation.
+The best word to start the game with is *SLATE*. The frequencies out of the word-list file are used in calculation. Using the frequencies to select the next word to use in the game results in finding some words in 7 or 8 tries, though a small amount [24 times 7 tries, 4 times 8].  
